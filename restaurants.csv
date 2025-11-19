@@ -1,0 +1,7 @@
+name,city,neighborhood,cuisine,avg_price_per_person,rating,opens_at,closes_at,max_guests_per_slot,available_slots
+Bombay Palace,Richmond,Short Pump,Indian,25,4.5,17:00,22:00,40,"18:00;19:00;19:30;20:00"
+Spice Route,Richmond,Downtown,Indian,28,4.3,17:30,23:00,30,"18:30;19:30;20:30"
+La Trattoria,Richmond,Downtown,Italian,40,4.6,17:00,23:00,30,"18:00;19:00;20:00"
+Green Garden,Richmond,The Fan,Vegetarian,20,4.1,11:00,22:00,25,"18:00;18:30;19:00"
+Sushi Zen,Richmond,Short Pump,Japanese,35,4.7,17:00,22:00,20,"18:00;19:00;20:00"
+
